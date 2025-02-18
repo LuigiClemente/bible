@@ -86,10 +86,7 @@
 - 📖 **João 1:45-46** → Natanael diz: *"Pode vir alguma coisa boa de Nazaré?"*  
 - 📖 **João 7:41-42** → Alguns judeus rejeitam Jesus porque *"o Cristo virá da descendência de Davi e da cidade de Belém"*.  
 
-🔴 **Contradição:** João **não menciona o nascimento em Belém**, sugerindo que não estava ciente disso.  
-
-### **Continuação da Lista Completa das Contradições Entre o Evangelho de João e os Sinópticos (Mateus, Marcos e Lucas)**  
-**(A partir do item 9 até o item 35, com referências bíblicas específicas)**  
+🔴 **Contradição:** João **não menciona o nascimento em Belém**, sugerindo que não estava ciente disso.   
 
 ---
 
