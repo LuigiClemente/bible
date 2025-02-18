@@ -200,9 +200,6 @@
 
 🔴 **Contradição:** Nos Sinópticos, são as **multidões judaicas**; em João, há também **soldados romanos**.  
 
-### **Continuação da Lista Completa das Contradições Entre o Evangelho de João e os Sinópticos (Mateus, Marcos e Lucas)**  
-_(A partir do item 19 até o item 35, com referências bíblicas específicas e explicação da contradição)_
-
 ---
 
 ## **19. O julgamento de Jesus perante Pilatos: Jesus discute ou fica em silêncio?**  
