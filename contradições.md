@@ -1,4 +1,4 @@
-## 🔥 **1. Jesus afirma ser Deus?**  
+##  **1. Jesus afirma ser Deus?**  
 ### **Nos Sinópticos: Não explicitamente**  
 - 📖 **Mateus 24:36** → *"Quanto àquele dia e àquela hora, ninguém sabe, nem os anjos do céu, nem o Filho, senão o Pai."* (Jesus se coloca abaixo do Pai)  
 - 📖 **Marcos 10:18** → *"Por que me chamas bom? Ninguém é bom senão um só, que é Deus."* (Jesus separa-se de Deus)  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🕰 **2. Quanto tempo durou o ministério de Jesus?**  
+##  **2. Quanto tempo durou o ministério de Jesus?**  
 ### **Nos Sinópticos: Cerca de 1 ano**  
 - 📖 **Mateus 26:2**, **Marcos 14:1**, **Lucas 22:1** → Apenas **uma Páscoa** mencionada.  
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🏛 **3. Expulsão dos mercadores do templo: no início ou no fim?**  
+##  **3. Expulsão dos mercadores do templo: no início ou no fim?**  
 ### **Nos Sinópticos: No final do ministério**  
 - 📖 **Mateus 21:12-13**, **Marcos 11:15-17**, **Lucas 19:45-46** → Jesus expulsa os mercadores **logo antes da crucificação**.  
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🍷 **4. Última Ceia: Jesus comeu a Páscoa?**  
+##  **4. Última Ceia: Jesus comeu a Páscoa?**  
 ### **Nos Sinópticos: Sim**  
 - 📖 **Mateus 26:17-19**, **Marcos 14:12-16**, **Lucas 22:7-15** → Jesus celebra a Páscoa com seus discípulos.  
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏋 **5. Quem carregou a cruz?**  
+##  **5. Quem carregou a cruz?**  
 ### **Nos Sinópticos: Simão Cireneu**  
 - 📖 **Mateus 27:32**, **Marcos 15:21**, **Lucas 23:26** → Simão de Cirene **carrega a cruz de Jesus**.  
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🌊 **7. Milagres exclusivos de João**  
+##  **7. Milagres exclusivos de João**  
 - 📖 **João 2:1-11** → **Água em vinho** ❌ Não nos Sinópticos.  
 - 📖 **João 9:1-7** → **Cura do cego de nascença** ❌ Não nos Sinópticos.  
 - 📖 **João 11:1-44** → **Ressurreição de Lázaro** ❌ Não nos Sinópticos.  
@@ -78,7 +78,7 @@
 
 ---
 
-## 📍 **8. Local de nascimento de Jesus**  
+##  **8. Local de nascimento de Jesus**  
 ### **Nos Sinópticos: Jesus nasceu em Belém**  
 - 📖 **Mateus 2:1**, **Lucas 2:4-7** → Jesus nasceu em Belém.  
 
