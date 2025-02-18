@@ -251,11 +251,6 @@ _(A partir do item 19 até o item 35, com referências bíblicas específicas e 
 
 ---
 
-### **Continuação da Lista Completa das Contradições Entre o Evangelho de João e os Sinópticos (Mateus, Marcos e Lucas)**  
-_(A partir do item 23 até o item 35, com referências bíblicas específicas e explicação da contradição)_
-
----
-
 ## **23. Jesus ascende ao céu quando?**  
 ### **Nos Sinópticos: No final de Lucas e no início de Atos**  
 - 📖 **Lucas 24:51** → *"E aconteceu que, abençoando-os ele, se apartou deles e foi elevado ao céu."*  
