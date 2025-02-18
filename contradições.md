@@ -376,11 +376,6 @@ _(A partir do item 19 até o item 35, com referências bíblicas específicas e 
 
 ---
 
-### **Continuação da Lista Completa das Contradições Entre o Evangelho de João e os Sinópticos (Mateus, Marcos e Lucas)**  
-_(A partir do item 34 até o item 35, com referências bíblicas específicas e explicação da contradição)_
-
----
-
 ## **34. O que Jesus disse antes de morrer na cruz?**  
 ### **Nos Sinópticos: Jesus clama a Deus em sofrimento**  
 - 📖 **Mateus 27:46** → *"Eli, Eli, lama sabachthani?"* (Meu Deus, meu Deus, por que me abandonaste?)  
