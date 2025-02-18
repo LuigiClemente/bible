@@ -1,4 +1,4 @@
-## 🔥 **1. Does Jesus Claim to Be God?**  
+##  **1. Does Jesus Claim to Be God?**  
 ### **In the Synoptic Gospels: Not Explicitly**  
 - 📖 **Matthew 24:36** → *"But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father."* (Jesus places himself below the Father)  
 - 📖 **Mark 10:18** → *"Why do you call me good? No one is good—except God alone."* (Jesus separates himself from God)  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🕰 **2. How Long Did Jesus' Ministry Last?**  
+##  **2. How Long Did Jesus' Ministry Last?**  
 ### **In the Synoptic Gospels: About 1 Year**  
 - 📖 **Matthew 26:2**, **Mark 14:1**, **Luke 22:1** → Only **one Passover** is mentioned.  
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🏛 **3. Cleansing of the Temple: At the Beginning or the End?**  
+##  **3. Cleansing of the Temple: At the Beginning or the End?**  
 ### **In the Synoptic Gospels: At the End of the Ministry**  
 - 📖 **Matthew 21:12-13**, **Mark 11:15-17**, **Luke 19:45-46** → Jesus expels the merchants **just before the crucifixion**.  
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🍷 **4. The Last Supper: Did Jesus Eat the Passover?**  
+##  **4. The Last Supper: Did Jesus Eat the Passover?**  
 ### **In the Synoptic Gospels: Yes**  
 - 📖 **Matthew 26:17-19**, **Mark 14:12-16**, **Luke 22:7-15** → Jesus celebrates Passover with his disciples.  
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏋 **5. Who Carried the Cross?**  
+##  **5. Who Carried the Cross?**  
 ### **In the Synoptic Gospels: Simon of Cyrene**  
 - 📖 **Matthew 27:32**, **Mark 15:21**, **Luke 23:26** → Simon of Cyrene **carries Jesus’ cross**.  
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 👀 **6. Who Saw Jesus First After the Resurrection?**  
+##  **6. Who Saw Jesus First After the Resurrection?**  
 ### **In the Synoptic Gospels: Other Women and Disciples**  
 - 📖 **Matthew 28:9-10** → Jesus appears **first to the women**.  
 - 📖 **Luke 24:13-35** → Jesus appears **first to the disciples on the road to Emmaus**.  
@@ -69,7 +69,7 @@
 
 ---
 
-## 🌊 **7. Miracles Exclusive to John**  
+##  **7. Miracles Exclusive to John**  
 - 📖 **John 2:1-11** → **Water into wine** ❌ Not in the Synoptics.  
 - 📖 **John 9:1-7** → **Healing of the man born blind** ❌ Not in the Synoptics.  
 - 📖 **John 11:1-44** → **Raising of Lazarus** ❌ Not in the Synoptics.  
@@ -78,7 +78,7 @@
 
 ---
 
-## 📍 **8. Place of Jesus’ Birth**  
+##  **8. Place of Jesus’ Birth**  
 ### **In the Synoptic Gospels: Jesus Was Born in Bethlehem**  
 - 📖 **Matthew 2:1**, **Luke 2:4-7** → Jesus was born in Bethlehem.  
 
